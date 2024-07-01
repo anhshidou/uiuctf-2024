@@ -62,7 +62,7 @@ https://www.instagram.com/longislandsubwayauthority/
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/eb72aa27-cfeb-448c-a51a-c74d6bbcc9b8)
 
-- After doing that, we will found it had a playlist called "song for train lovers"
+- After doing that, we will find it has a playlist called "song for train lovers"
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/4c592cd9-d044-4ea6-abe4-9885cb09a63c)
 
