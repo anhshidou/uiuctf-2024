@@ -1,14 +1,16 @@
-# Hip with the Youth
+# UIUC-Chan suite
+
+## Hip with the Youth
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/404d9443-d4fa-411b-b597-2ccd83725411)
 
-## Analyzing
+### Analyzing
 
 - While reading the challenge, I found some keywords such as **Long Island Subway Authority (LISA)**, **social media** and **instagram**
 
 - Using Instagram as an evidence, I go to instagram then found Long Island Subway Authority. After that will be the rest
 
-## Solution
+### Solution
 
 - Go to instagram:
 
@@ -22,15 +24,15 @@ https://www.instagram.com/longislandsubwayauthority/
 
 - Found the flag: **uiuctf{7W1773r_K!113r_321879}**
 
-# An Unlikely Partnership
+## An Unlikely Partnership
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/942ee4e6-5e34-4797-a37e-d7092cfb6489)
 
-## Analyzing
+### Analyzing
 
 - In this part, I'm going to search "long island subway authority" on google search.
 
-## Solution
+### Solution
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/98212033-e20d-42ce-ae5c-a9d6ed08e647)
 
@@ -42,17 +44,17 @@ https://www.instagram.com/longislandsubwayauthority/
 
 **Flag: uiuctf{0M160D_U1UCCH4N_15_MY_F4V0r173_129301}**
 
-# The weakest link
+## The weakest link
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/4e79e7e7-84af-4f00-8367-1e7ec2c9e6d3)
 
-## Analyzing
+### Analyzing
 
 - We can found some keywords from the challenge description: **Spotify collaboration**, **neither of them have the opsec to keep it private**
   
 - From the part 2 of this series, I found looking at UIUC-chan linkedin Profile will have me a lot.
 
-## Solution
+### Solution
 
 - We need to analyze UIUC chan linkedin profile, if we do it, we will found one spotify link
 
@@ -72,12 +74,14 @@ https://www.instagram.com/longislandsubwayauthority/
 
 **Flag: uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}**
 
-# Night
+# Geoguesser Suite
+
+## Night
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/0aa583c8-01a3-478b-af1b-0041dc21861a)
 
 
-## Analyzing
+### Analyzing
 
 - Now we are straight into geoguesser. We need to analyze the image
 
@@ -87,7 +91,7 @@ https://www.instagram.com/longislandsubwayauthority/
 
 - Next step, we know that the photo taken from road is on the right on the road. Then we found out that the author have been blurred out something, it might be front face of that tall building.
 
-## Solution
+### Solution
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/91aa6c3f-4d6c-4b46-8c4c-a7d0e7fcbf05)
 
@@ -105,11 +109,11 @@ https://www.instagram.com/longislandsubwayauthority/
 
 **Flag: uiuctf{Arlington Street, Boston**
 
-# Chunky boi
+## Chunky boi
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/a455a135-aace-44ef-b1bb-df69be465d15)
 
-## Analyzing
+### Analyzing
 
 ![chal (2)](https://github.com/anhshidou/uiuctf-2024/assets/120787381/23ec880b-e2c5-475c-952e-99ecb7f841ff)
 
@@ -125,7 +129,7 @@ https://www.instagram.com/longislandsubwayauthority/
 
 - Then find the flight schedule of the aircraft is my final move
 
-## Solution
+### Solution
 
 - After analyze it that much, I found a website that can track plane: https://radar.planespotters.net/?icao=ae20c3&lat=47.182&lon=-122.524&zoom=7.0&showTrace=2024-05-11
 
@@ -141,11 +145,11 @@ https://www.instagram.com/longislandsubwayauthority/
 
 **Flag: uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}**
 
-# New Dallas
+## New Dallas
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/edfcfdec-8a86-4cef-85e9-4b8ac65390e2)
 
-## Analyzing
+### Analyzing
 
 ![chal (1)](https://github.com/anhshidou/uiuctf-2024/assets/120787381/8ef4965d-89a4-4e56-94f5-b2b761a58d2b)
 
@@ -161,7 +165,7 @@ https://www.instagram.com/longislandsubwayauthority/
 
 - By knowing all of this, I can reduce the range of my thought down to a metro line. It really helped me a lot.
 
-# Solution
+### Solution
 
 - There are a lot of metro line in China, I use this website to find the things I need: https://www.travelchinaguide.com/
 
