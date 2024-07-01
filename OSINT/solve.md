@@ -10,17 +10,17 @@
 
 ## Solution
 
-Go to instagram:
+- Go to instagram:
 
 https://www.instagram.com/longislandsubwayauthority/
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/0d20f7ae-eb95-408e-9b30-2a3a42003c8c)
 
-Found a thread account, go to that thread account: https://www.threads.net/@longislandsubwayauthority?xmt=AQGzXwdAY8VaxzIvzwW644C0-8feGPQHS772DKZgZSfOkIk
+- Found a thread account, go to that thread account: https://www.threads.net/@longislandsubwayauthority?xmt=AQGzXwdAY8VaxzIvzwW644C0-8feGPQHS772DKZgZSfOkIk
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/b0011156-53e8-4632-b281-30a9f5dfce4b)
 
-Found the flag: **uiuctf{7W1773r_K!113r_321879}**
+- Found the flag: **uiuctf{7W1773r_K!113r_321879}**
 
 # An Unlikely Partnership
 
@@ -34,11 +34,11 @@ Found the flag: **uiuctf{7W1773r_K!113r_321879}**
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/98212033-e20d-42ce-ae5c-a9d6ed08e647)
 
-After using the way in the analyze part, I found this one looked special 
+- After using the way in the analyze part, I found this one looked special 
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/3dfb1e80-8aff-4f52-867b-251489652146)
 
-It returns as I thought
+- It returns as I thought
 
 **Flag: uiuctf{0M160D_U1UCCH4N_15_MY_F4V0r173_129301}**
 
@@ -54,19 +54,19 @@ It returns as I thought
 
 ## Solution
 
-We need to analyze UIUC chan linkedin profile, if we do it, we will found one spotify link
+- We need to analyze UIUC chan linkedin profile, if we do it, we will found one spotify link
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/b589cf00-5f63-44c5-9c14-9a70237e851c)
 
-Since we found it, we could actually see the collab or a "friend activity"
+- Since we found it, we could actually see the collab or a "friend activity"
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/eb72aa27-cfeb-448c-a51a-c74d6bbcc9b8)
 
-After doing that, we will found it had a playlist called "song for train lovers"
+- After doing that, we will found it had a playlist called "song for train lovers"
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/4c592cd9-d044-4ea6-abe4-9885cb09a63c)
 
-After that, we can take the flag
+- After that, we can take the flag
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/b3a22a15-b052-4801-80d2-73de1bc8d499)
 
@@ -91,15 +91,15 @@ After that, we can take the flag
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/91aa6c3f-4d6c-4b46-8c4c-a7d0e7fcbf05)
 
-I found the building named prudential so that the rest of challenge would be a lot easier
+- I found the building named prudential so that the rest of challenge would be a lot easier
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/a04004de-f0e8-430e-b10e-c133950df823)
 
-Since the building named prudential wrote prudential on the opposite way of my among picture. I took it as a clue.
+- Since the building named prudential wrote prudential on the opposite way of my among picture. I took it as a clue.
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/708d0b04-c3bc-46fe-b17b-f946a57a57ea)
 
-I found this road seems familliar, seems like the answer is here
+- I found this road seems familliar, seems like the answer is here
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/6139fcc5-d3b4-4066-a163-43543b746467)
 
@@ -127,17 +127,17 @@ I found this road seems familliar, seems like the answer is here
 
 ## Solution
 
-After analyze it that much, I found a website that can track plane: https://radar.planespotters.net/?icao=ae20c3&lat=47.182&lon=-122.524&zoom=7.0&showTrace=2024-05-11
+- After analyze it that much, I found a website that can track plane: https://radar.planespotters.net/?icao=ae20c3&lat=47.182&lon=-122.524&zoom=7.0&showTrace=2024-05-11
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/7c226368-051d-45ae-a0f3-0d8f62298df1)
 
-I found it going to Seattle, in Seattle there is only one airport that can handle this much aircraft is Seatac
+- I found it going to Seattle, in Seattle there is only one airport that can handle this much aircraft is Seatac
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/723f9f7d-bd83-45c9-a340-be6079054142)
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/5123ad46-e877-4f93-ad85-bca64a2b1dc0)
 
-After these two images, my thought is totally cleared.
+- After these two images, my thought is totally cleared.
 
 **Flag: uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}**
 
@@ -163,27 +163,27 @@ After these two images, my thought is totally cleared.
 
 # Solution
 
-There are a lot of metro line in China, I use this website to find the things I need: https://www.travelchinaguide.com/
+- There are a lot of metro line in China, I use this website to find the things I need: https://www.travelchinaguide.com/
 
-Then I found that the green line stripe is not for decoration, it also for Identification color of each metro line.
+- Then I found that the green line stripe is not for decoration, it also for Identification color of each metro line.
 
-Using chatgpt will help you create a list of metro line that has green identification color
+- Using chatgpt will help you create a list of metro line that has green identification color
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/4adfeae1-451a-45bb-bdd5-2ab5f7d812ed)
 
-After tested and searching for each metro line in the chatgpt list, I found a metro line that is suprisingly similar to the image is **Wuxi Metro Line 2**
+- After tested and searching for each metro line in the chatgpt list, I found a metro line that is suprisingly similar to the image is **Wuxi Metro Line 2**
 
-By using **https://www.travelchinaguide.com/cityguides/jiangsu/wuxi/subway/line2.htm** I can find the station and timetable so that I can take the exactly station to find it more accurately
+- By using **https://www.travelchinaguide.com/cityguides/jiangsu/wuxi/subway/line2.htm** I can find the station and timetable so that I can take the exactly station to find it more accurately
 
-The nearest answer will be in Dongting Neighbourhood since it is very large which is suitable for 6-lane road
+- The nearest answer will be in Dongting Neighbourhood since it is very large which is suitable for 6-lane road
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/654dceee-1cf0-4523-84fa-1d5fc23fa9e6)
 
-We find the metro line and the train that completely correct. And the flag format is coordinates of intersection so that we need to find the intersection
+- We find the metro line and the train that completely correct. And the flag format is coordinates of intersection so that we need to find the intersection
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/1293df1d-f1a1-4772-a9fb-db8237ca2cf3)
 
-I found the intersection on the road next to the road of the metro line. Since the correct coord must be between the intersection, we will take the building with the coord of 31.579, 120.388
+- I found the intersection on the road next to the road of the metro line. Since the correct coord must be between the intersection, we will take the building with the coord of 31.579, 120.388
 
 ![image](https://github.com/anhshidou/uiuctf-2024/assets/120787381/8b13f990-d58c-4760-b30f-3604a18a89db)
 
