@@ -1,0 +1,22 @@
+# Đề bài
+
+```
+from itertools import cycle
+
+flag = b"uiuctf{????????????????????????????????????????}"
+# len(flag) = 48
+key  = b"????????"
+# len(key) = 8
+ct = bytes(x ^ y for x, y in zip(flag, cycle(key)))
+
+with open("ct", "wb") as ct_file:
+    ct_file.write(ct)
+```
+
+# Phân tích
+
+Cũng chẳng có gì, chỉ là phép xor đơn giản với key dài 8 bytes, mà ta đã biết 7 bytes đầu rồi, chỉ cần bruteforce byte cuối thôi.
+
+# Flag
+
+`uiuctf{n0t_ju5t_th3_st4rt_but_4l50_th3_3nd!!!!!}`
